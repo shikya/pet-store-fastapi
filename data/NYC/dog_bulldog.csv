@@ -1,0 +1,501 @@
+name,age,color,weight,favorite_activity
+Lucy,15,Ginger,25.65,Dog park playtime
+Molly,19,Ginger,32.66,Hiking
+Rosie,8,Black,41.09,Walking
+Cooper,5,Brown,23.34,Agility training
+Lucy,0,Gray,28.33,Swimming
+Cooper,9,Tabby,50.12,Walking
+Max,20,Brown,29.77,Chewing on toys
+Oscar,19,White,24.45,Hiking
+Charlie,16,White,11.25,Running
+Lucy,7,White,1.91,Hiking
+Stella,16,Ginger,38.97,Agility training
+Max,3,Black,37.73,Running
+Charlie,19,Tan,33.21,Hiking
+Toby,2,Ginger,27.88,Hiking
+Cooper,18,Tan,46.56,Swimming
+Luna,20,Gray,26.44,Running
+Stella,16,Brown,5.88,Playing frisbee
+Max,13,White,48.4,Dog park playtime
+Buddy,4,Tan,31.14,Fetching
+Oscar,1,White,3.52,Agility training
+Sadie,11,Black,29.84,Agility training
+Max,14,Ginger,16.44,Dog park playtime
+Bailey,13,Ginger,29.17,Running
+Charlie,13,Gray,33.52,Agility training
+Rosie,4,Black,51.94,Fetching
+Charlie,15,Gray,25.8,Running
+Toby,4,Black,41.31,Walking
+Cooper,18,Brown,11.82,Hiking
+Charlie,15,White,2.3,Fetching
+Luna,19,Black,8.47,Running
+Molly,7,White,23.48,Chewing on toys
+Rocky,1,Brown,14.43,Agility training
+Luna,19,Black,25.82,Walking
+Daisy,9,Ginger,4.79,Swimming
+Lucy,8,Black,17.84,Hiking
+Sadie,7,Brown,10.25,Fetching
+Luna,8,Black,6.47,Fetching
+Sadie,8,Gray,18.3,Agility training
+Luna,20,Gray,44.47,Running
+Cooper,14,Ginger,11.99,Playing frisbee
+Toby,20,Black,20.32,Obedience training
+Max,12,Gray,43.67,Swimming
+Bailey,15,Brown,15.03,Swimming
+Bailey,11,Ginger,44.2,Hiking
+Cooper,19,White,18.9,Dog park playtime
+Stella,9,Ginger,12.43,Chewing on toys
+Bailey,17,Tan,8.73,Chewing on toys
+Charlie,2,Gray,41.77,Fetching
+Daisy,6,Brown,20.77,Playing frisbee
+Bailey,0,Tan,42.08,Playing frisbee
+Charlie,13,Gray,51.49,Running
+Stella,11,Tan,20.15,Swimming
+Daisy,14,Ginger,29.46,Agility training
+Daisy,18,Black,12.99,Obedience training
+Toby,14,Black,7.68,Walking
+Cooper,4,Ginger,43.85,Swimming
+Bailey,2,Tan,20.88,Running
+Toby,6,Gray,41.52,Dog park playtime
+Lucy,12,Tan,27.0,Hiking
+Stella,1,White,15.78,Dog park playtime
+Luna,18,Black,28.89,Walking
+Lucy,18,Gray,1.52,Obedience training
+Sadie,16,Gray,9.26,Chewing on toys
+Rosie,8,Tan,12.2,Swimming
+Rocky,14,Black,16.04,Running
+Toby,8,Tabby,15.42,Playing frisbee
+Lucy,9,Black,21.8,Swimming
+Stella,8,White,2.48,Running
+Charlie,1,Black,45.67,Walking
+Sadie,14,White,44.93,Playing frisbee
+Molly,5,Gray,31.24,Fetching
+Max,11,White,39.71,Walking
+Sadie,2,Brown,41.79,Running
+Bailey,14,Gray,29.65,Agility training
+Buddy,15,Black,17.14,Playing frisbee
+Cooper,1,Gray,28.97,Swimming
+Sadie,5,Black,18.12,Swimming
+Rosie,20,Ginger,12.26,Agility training
+Max,17,Tabby,49.82,Obedience training
+Sadie,5,Brown,10.06,Dog park playtime
+Molly,16,Ginger,8.95,Chewing on toys
+Charlie,2,Black,12.55,Swimming
+Lucy,15,White,14.42,Playing frisbee
+Molly,8,Ginger,41.06,Swimming
+Molly,7,Black,0.77,Swimming
+Toby,12,Tabby,7.5,Obedience training
+Oscar,4,Tabby,46.37,Swimming
+Lucy,5,Gray,6.79,Fetching
+Cooper,2,White,16.77,Dog park playtime
+Daisy,4,Gray,13.14,Walking
+Rosie,17,Ginger,19.57,Playing frisbee
+Toby,9,Brown,21.81,Playing frisbee
+Sadie,17,Black,30.1,Running
+Toby,5,Gray,27.79,Obedience training
+Rocky,5,Tan,49.42,Agility training
+Daisy,20,Tan,39.12,Running
+Cooper,8,Brown,7.04,Walking
+Oscar,16,Tabby,25.82,Hiking
+Toby,9,White,14.94,Playing frisbee
+Stella,0,Tabby,21.39,Hiking
+Sadie,2,Tabby,50.98,Hiking
+Oscar,5,White,15.25,Agility training
+Rosie,6,Tan,10.93,Dog park playtime
+Luna,9,Tabby,42.67,Hiking
+Sadie,11,Black,5.25,Obedience training
+Cooper,3,Black,35.17,Dog park playtime
+Oscar,19,Gray,23.2,Walking
+Molly,16,Ginger,18.11,Playing frisbee
+Toby,12,Gray,7.61,Hiking
+Daisy,16,Tan,18.28,Dog park playtime
+Rosie,19,Ginger,45.5,Obedience training
+Rocky,19,White,7.87,Agility training
+Toby,15,White,24.32,Dog park playtime
+Rosie,7,Tan,42.09,Agility training
+Luna,15,Tan,9.76,Obedience training
+Toby,7,White,17.91,Fetching
+Cooper,4,Gray,13.68,Running
+Toby,3,Tabby,44.98,Hiking
+Rocky,11,Gray,7.56,Walking
+Bailey,1,White,14.7,Playing frisbee
+Lucy,3,Brown,51.93,Dog park playtime
+Toby,4,Ginger,43.05,Hiking
+Buddy,4,White,2.43,Agility training
+Oscar,8,Gray,24.16,Obedience training
+Rosie,12,Brown,19.61,Obedience training
+Daisy,10,Tabby,32.18,Running
+Toby,15,Black,15.66,Playing frisbee
+Luna,11,Tabby,44.38,Walking
+Max,16,Black,29.56,Playing frisbee
+Charlie,17,Ginger,41.06,Obedience training
+Daisy,14,Gray,27.1,Fetching
+Max,10,Brown,45.78,Agility training
+Bailey,17,Gray,14.61,Hiking
+Rosie,5,Brown,26.34,Obedience training
+Molly,2,Black,28.47,Walking
+Charlie,5,White,51.01,Agility training
+Max,20,Gray,3.04,Fetching
+Sadie,1,Gray,24.14,Chewing on toys
+Bailey,1,Gray,28.86,Obedience training
+Daisy,19,White,13.19,Obedience training
+Stella,6,Black,32.21,Running
+Bailey,15,White,18.05,Walking
+Bailey,4,Black,47.97,Playing frisbee
+Stella,16,White,29.91,Walking
+Rocky,8,White,29.5,Running
+Molly,2,Ginger,26.13,Swimming
+Charlie,12,Tan,41.89,Swimming
+Oscar,7,Ginger,14.02,Dog park playtime
+Stella,0,Black,32.14,Swimming
+Cooper,5,Brown,32.63,Swimming
+Molly,13,Brown,7.54,Walking
+Max,1,Ginger,27.64,Walking
+Sadie,10,White,20.0,Swimming
+Max,11,Black,33.08,Dog park playtime
+Molly,20,Black,19.74,Dog park playtime
+Buddy,19,Brown,7.71,Hiking
+Charlie,0,Black,38.9,Chewing on toys
+Cooper,18,Gray,47.74,Dog park playtime
+Lucy,9,White,24.0,Walking
+Oscar,19,Tabby,39.75,Chewing on toys
+Buddy,8,Black,25.22,Dog park playtime
+Sadie,16,Black,30.03,Running
+Sadie,20,White,31.18,Hiking
+Toby,15,Tan,16.91,Running
+Rocky,12,Tan,21.89,Fetching
+Bailey,5,Gray,8.71,Dog park playtime
+Toby,20,White,15.18,Playing frisbee
+Oscar,10,Black,50.29,Running
+Sadie,20,Black,25.32,Running
+Cooper,0,Black,15.02,Agility training
+Toby,2,Ginger,14.68,Walking
+Stella,1,Gray,48.7,Agility training
+Max,18,Gray,25.94,Walking
+Bailey,0,Black,44.13,Swimming
+Rosie,5,Brown,28.21,Dog park playtime
+Toby,7,Tabby,7.34,Walking
+Luna,19,Black,43.41,Agility training
+Cooper,2,Gray,15.12,Playing frisbee
+Rocky,12,Gray,34.03,Dog park playtime
+Bailey,17,Tabby,30.98,Walking
+Luna,12,Gray,49.18,Playing frisbee
+Buddy,17,Ginger,14.57,Obedience training
+Daisy,3,Black,12.0,Walking
+Toby,8,Brown,9.8,Obedience training
+Sadie,19,Black,27.79,Running
+Luna,12,White,10.11,Hiking
+Toby,6,Gray,9.5,Playing frisbee
+Rocky,13,Brown,2.59,Walking
+Rosie,13,Brown,38.6,Walking
+Lucy,12,Black,21.87,Running
+Charlie,1,Gray,48.85,Agility training
+Rocky,2,Gray,26.79,Dog park playtime
+Sadie,4,Black,37.61,Playing frisbee
+Stella,3,White,51.07,Swimming
+Sadie,6,Ginger,26.41,Obedience training
+Rocky,18,White,32.1,Swimming
+Lucy,19,Black,11.71,Walking
+Lucy,10,Black,16.64,Hiking
+Lucy,6,Tan,41.19,Fetching
+Cooper,13,Gray,25.69,Obedience training
+Rocky,1,Tabby,1.07,Dog park playtime
+Molly,11,Black,26.11,Swimming
+Lucy,3,Tabby,23.93,Walking
+Luna,0,Ginger,21.76,Playing frisbee
+Rocky,18,Black,15.98,Walking
+Max,3,White,41.1,Hiking
+Charlie,11,White,48.02,Running
+Daisy,19,Gray,33.09,Chewing on toys
+Sadie,14,White,1.4,Obedience training
+Lucy,3,Gray,29.13,Agility training
+Molly,5,White,33.36,Running
+Sadie,17,Ginger,46.76,Dog park playtime
+Rocky,7,White,17.72,Chewing on toys
+Buddy,12,Black,32.34,Chewing on toys
+Max,20,White,34.29,Running
+Charlie,13,White,0.93,Agility training
+Oscar,2,Tan,39.99,Hiking
+Toby,16,Ginger,9.4,Hiking
+Oscar,14,White,17.09,Running
+Max,17,Gray,1.86,Fetching
+Stella,12,Tabby,5.11,Running
+Rocky,17,Ginger,45.75,Dog park playtime
+Oscar,17,Tabby,11.04,Running
+Max,13,White,4.53,Fetching
+Bailey,20,Gray,3.26,Hiking
+Rocky,16,Black,49.71,Dog park playtime
+Molly,13,White,50.92,Fetching
+Sadie,6,Gray,0.59,Hiking
+Molly,8,Ginger,19.63,Obedience training
+Charlie,11,Ginger,46.71,Fetching
+Cooper,8,Gray,6.12,Running
+Rocky,17,Brown,16.79,Agility training
+Rosie,13,Black,33.44,Playing frisbee
+Toby,18,Tabby,33.16,Swimming
+Charlie,3,Tan,36.87,Chewing on toys
+Rocky,18,Black,10.73,Chewing on toys
+Rocky,2,Brown,26.24,Agility training
+Charlie,16,Black,36.15,Fetching
+Oscar,8,Brown,25.73,Swimming
+Rocky,14,Gray,22.88,Chewing on toys
+Toby,2,White,25.85,Playing frisbee
+Luna,3,Tabby,4.52,Walking
+Buddy,7,Black,10.48,Swimming
+Charlie,11,Black,44.78,Chewing on toys
+Bailey,5,Ginger,14.43,Swimming
+Cooper,15,Gray,2.46,Walking
+Toby,15,White,23.11,Walking
+Sadie,16,White,39.24,Dog park playtime
+Bailey,17,Brown,12.73,Dog park playtime
+Cooper,0,Black,20.94,Playing frisbee
+Cooper,20,Tan,41.38,Dog park playtime
+Luna,10,Tabby,45.21,Fetching
+Lucy,10,Black,45.64,Running
+Sadie,7,Tabby,17.7,Agility training
+Molly,2,Ginger,27.34,Swimming
+Lucy,18,White,6.81,Chewing on toys
+Rocky,0,White,51.37,Hiking
+Cooper,16,Gray,43.0,Walking
+Charlie,0,White,39.85,Fetching
+Max,13,Ginger,51.01,Agility training
+Buddy,12,Black,33.57,Obedience training
+Stella,14,White,19.69,Swimming
+Toby,15,White,48.03,Agility training
+Rosie,4,Tan,3.99,Swimming
+Buddy,18,Tan,50.05,Obedience training
+Sadie,5,Tabby,7.4,Dog park playtime
+Charlie,2,Black,18.02,Chewing on toys
+Luna,9,White,9.26,Chewing on toys
+Rocky,7,Tabby,1.16,Obedience training
+Buddy,16,Black,31.04,Playing frisbee
+Toby,13,White,33.92,Fetching
+Charlie,19,Gray,9.16,Obedience training
+Charlie,19,Ginger,37.73,Swimming
+Rosie,9,Gray,11.34,Walking
+Sadie,12,Black,2.26,Hiking
+Luna,11,Gray,0.19,Fetching
+Buddy,9,Ginger,38.05,Dog park playtime
+Lucy,14,White,34.3,Agility training
+Oscar,8,Gray,21.39,Running
+Stella,14,Tabby,23.4,Fetching
+Lucy,11,Black,40.8,Playing frisbee
+Buddy,18,Gray,39.8,Running
+Stella,19,White,24.88,Chewing on toys
+Luna,13,Gray,29.62,Fetching
+Toby,8,Black,15.2,Playing frisbee
+Oscar,3,Gray,46.65,Swimming
+Charlie,12,Ginger,44.05,Hiking
+Cooper,15,Tabby,41.58,Fetching
+Daisy,20,Tan,14.86,Walking
+Bailey,5,Brown,25.08,Chewing on toys
+Toby,20,White,14.79,Chewing on toys
+Oscar,6,Ginger,3.34,Fetching
+Daisy,11,White,29.64,Dog park playtime
+Rosie,16,Ginger,39.34,Fetching
+Stella,18,Tabby,17.25,Walking
+Cooper,8,Black,41.69,Agility training
+Oscar,20,Black,44.51,Dog park playtime
+Bailey,13,Gray,38.42,Swimming
+Luna,5,Ginger,9.26,Running
+Lucy,1,Ginger,50.05,Dog park playtime
+Bailey,5,Gray,25.54,Walking
+Stella,1,White,28.52,Walking
+Cooper,14,Black,28.61,Playing frisbee
+Lucy,6,Gray,37.36,Obedience training
+Bailey,4,Black,28.78,Fetching
+Cooper,8,Tabby,23.94,Playing frisbee
+Daisy,2,Ginger,46.37,Agility training
+Sadie,14,White,6.35,Agility training
+Bailey,15,Black,28.57,Playing frisbee
+Oscar,15,Black,45.76,Fetching
+Oscar,16,Ginger,50.64,Running
+Toby,18,Black,40.25,Playing frisbee
+Rocky,19,Black,30.51,Walking
+Rocky,4,Tabby,32.04,Dog park playtime
+Max,10,Brown,34.33,Chewing on toys
+Toby,18,Gray,4.96,Playing frisbee
+Buddy,1,Brown,19.09,Walking
+Stella,15,Black,51.0,Fetching
+Rocky,4,Tan,9.33,Obedience training
+Charlie,3,Brown,38.42,Hiking
+Stella,14,Black,43.89,Walking
+Buddy,11,Black,27.57,Obedience training
+Bailey,9,Black,45.72,Agility training
+Stella,8,Gray,27.57,Chewing on toys
+Luna,2,Black,17.22,Agility training
+Toby,7,Black,26.31,Fetching
+Oscar,2,Tan,45.78,Chewing on toys
+Luna,13,Gray,49.55,Chewing on toys
+Bailey,17,Black,19.87,Swimming
+Lucy,20,White,6.42,Fetching
+Charlie,4,Gray,25.5,Hiking
+Sadie,3,Gray,51.72,Obedience training
+Stella,13,Brown,28.64,Running
+Bailey,7,Tabby,21.59,Playing frisbee
+Oscar,20,White,45.67,Agility training
+Luna,7,Gray,22.6,Running
+Rocky,12,Black,22.59,Playing frisbee
+Lucy,1,Gray,46.85,Fetching
+Rosie,18,White,47.51,Hiking
+Buddy,20,Tabby,11.16,Walking
+Luna,19,Black,5.7,Running
+Cooper,13,Gray,46.45,Running
+Sadie,3,White,37.2,Hiking
+Oscar,15,White,4.36,Fetching
+Luna,11,Brown,9.93,Hiking
+Sadie,14,Black,43.96,Walking
+Sadie,0,Tan,37.02,Agility training
+Sadie,16,Black,16.92,Obedience training
+Lucy,0,Gray,34.95,Obedience training
+Lucy,1,White,37.84,Chewing on toys
+Oscar,1,Gray,11.06,Walking
+Cooper,1,Tabby,9.87,Hiking
+Toby,15,Gray,39.14,Chewing on toys
+Max,2,Brown,0.21,Agility training
+Charlie,15,Black,5.31,Running
+Buddy,20,Gray,27.68,Swimming
+Charlie,10,Gray,45.86,Playing frisbee
+Buddy,12,Tabby,10.94,Playing frisbee
+Luna,10,Tan,35.29,Agility training
+Max,14,Tan,48.34,Chewing on toys
+Buddy,14,Ginger,26.47,Obedience training
+Daisy,12,Black,10.57,Dog park playtime
+Max,10,Tabby,28.0,Hiking
+Max,16,White,49.46,Dog park playtime
+Toby,10,Tan,15.84,Running
+Lucy,14,Gray,41.43,Obedience training
+Bailey,0,Tabby,49.18,Running
+Molly,17,Black,40.46,Swimming
+Cooper,13,Tabby,15.54,Obedience training
+Max,2,Black,36.69,Agility training
+Sadie,20,Black,40.46,Swimming
+Charlie,19,Tabby,39.52,Chewing on toys
+Sadie,6,Black,20.15,Agility training
+Molly,15,White,24.08,Hiking
+Bailey,16,White,28.14,Swimming
+Oscar,6,Gray,28.47,Obedience training
+Oscar,17,Tan,11.08,Hiking
+Molly,1,Gray,47.46,Hiking
+Cooper,16,Tabby,6.7,Agility training
+Lucy,1,White,29.16,Swimming
+Max,16,Tabby,22.68,Agility training
+Max,20,White,43.75,Chewing on toys
+Cooper,18,Ginger,49.92,Obedience training
+Rosie,0,Ginger,42.64,Hiking
+Sadie,7,White,41.57,Walking
+Daisy,8,White,42.27,Dog park playtime
+Oscar,5,Gray,28.72,Fetching
+Daisy,8,Gray,35.22,Obedience training
+Stella,6,Gray,14.0,Dog park playtime
+Buddy,17,Tabby,22.82,Agility training
+Bailey,5,Brown,44.1,Walking
+Daisy,16,Brown,47.13,Obedience training
+Stella,9,Black,31.04,Running
+Oscar,2,Gray,39.05,Agility training
+Toby,4,Ginger,49.95,Agility training
+Bailey,1,Ginger,50.45,Hiking
+Daisy,0,Brown,37.94,Obedience training
+Stella,12,White,5.06,Swimming
+Max,15,Tan,42.28,Agility training
+Rosie,17,Black,41.61,Obedience training
+Lucy,9,Gray,16.13,Obedience training
+Lucy,18,Gray,50.97,Walking
+Luna,1,Gray,10.42,Agility training
+Rocky,20,White,42.11,Swimming
+Max,4,Ginger,42.16,Obedience training
+Bailey,8,Brown,3.0,Obedience training
+Max,10,Ginger,2.97,Running
+Sadie,5,Ginger,45.45,Obedience training
+Toby,8,Gray,13.59,Fetching
+Daisy,11,Brown,45.63,Running
+Rocky,10,Brown,13.38,Hiking
+Buddy,20,Gray,36.71,Hiking
+Sadie,19,Gray,33.2,Hiking
+Cooper,18,Black,38.67,Swimming
+Luna,17,Black,50.58,Fetching
+Lucy,20,Tabby,45.56,Agility training
+Toby,20,Ginger,15.2,Swimming
+Molly,4,Black,24.48,Playing frisbee
+Cooper,3,Tabby,37.53,Fetching
+Stella,2,White,40.43,Chewing on toys
+Lucy,19,White,27.59,Fetching
+Charlie,7,Gray,17.01,Obedience training
+Toby,0,Tabby,0.02,Fetching
+Daisy,20,Tan,27.66,Walking
+Cooper,15,Brown,11.41,Walking
+Lucy,5,White,44.94,Fetching
+Molly,14,Ginger,50.1,Agility training
+Lucy,6,Black,23.75,Swimming
+Cooper,5,Gray,9.69,Dog park playtime
+Daisy,6,Black,17.97,Chewing on toys
+Luna,1,Tabby,47.05,Dog park playtime
+Buddy,0,Gray,38.68,Obedience training
+Rocky,14,White,43.16,Dog park playtime
+Daisy,13,Black,38.1,Obedience training
+Luna,17,Brown,5.73,Dog park playtime
+Rocky,15,Tabby,6.75,Swimming
+Max,9,Black,24.08,Fetching
+Daisy,9,Brown,2.28,Hiking
+Luna,3,Tabby,34.38,Fetching
+Buddy,16,Ginger,13.01,Fetching
+Bailey,8,Brown,7.44,Obedience training
+Max,10,Ginger,43.15,Swimming
+Rocky,15,Gray,38.31,Swimming
+Toby,11,Gray,18.37,Hiking
+Buddy,17,White,31.45,Dog park playtime
+Max,20,Black,29.09,Playing frisbee
+Sadie,2,Gray,32.82,Hiking
+Rosie,1,Ginger,13.24,Dog park playtime
+Buddy,19,Gray,27.32,Playing frisbee
+Stella,17,Ginger,39.17,Hiking
+Rosie,7,White,10.38,Swimming
+Oscar,7,Tabby,28.46,Obedience training
+Max,4,Gray,37.11,Hiking
+Oscar,8,White,32.47,Fetching
+Oscar,12,Black,26.02,Swimming
+Bailey,5,White,35.09,Fetching
+Stella,19,White,7.3,Running
+Daisy,1,Black,42.7,Walking
+Rocky,3,White,32.38,Walking
+Toby,13,White,14.86,Hiking
+Rocky,14,Tan,7.0,Walking
+Lucy,4,Gray,16.88,Walking
+Cooper,11,Brown,8.26,Hiking
+Daisy,3,Gray,18.83,Running
+Cooper,19,Ginger,42.18,Dog park playtime
+Rosie,14,Brown,29.67,Obedience training
+Luna,10,Ginger,1.0,Obedience training
+Buddy,0,Gray,11.14,Chewing on toys
+Luna,9,Ginger,42.62,Walking
+Oscar,8,Ginger,40.35,Hiking
+Luna,8,Tabby,33.65,Running
+Toby,2,Tabby,47.97,Chewing on toys
+Buddy,0,Black,46.57,Fetching
+Max,18,Tan,5.95,Obedience training
+Molly,17,White,41.72,Fetching
+Molly,17,Gray,42.85,Walking
+Sadie,1,Gray,28.64,Walking
+Lucy,10,White,39.3,Fetching
+Cooper,17,Brown,44.78,Dog park playtime
+Rocky,18,Gray,5.74,Playing frisbee
+Lucy,13,Tan,28.33,Running
+Max,13,White,24.67,Swimming
+Toby,17,Gray,15.91,Swimming
+Luna,6,Gray,1.16,Obedience training
+Sadie,18,Brown,22.65,Chewing on toys
+Oscar,5,Gray,38.56,Agility training
+Max,12,Tabby,42.06,Chewing on toys
+Daisy,8,Black,48.51,Dog park playtime
+Rosie,11,White,40.64,Running
+Rosie,13,Black,8.08,Fetching
+Max,17,White,29.26,Walking
+Stella,0,Tan,36.25,Agility training
+Max,14,Gray,47.85,Chewing on toys
+Stella,0,Tan,18.53,Hiking
+Luna,8,Tabby,32.25,Playing frisbee
+Oscar,1,Gray,12.12,Fetching
+Molly,2,Gray,34.81,Hiking
+Sadie,9,White,17.58,Dog park playtime
+Bailey,20,Ginger,5.1,Fetching
+Lucy,0,Gray,45.88,Obedience training

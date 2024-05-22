@@ -1,0 +1,501 @@
+name,age,color,weight,favorite_toy
+Ginger,5,Gray,3.99,Sisal mouse
+Simba,0,Gray,4.16,Cat tree
+Shadow,10,Black,2.36,Scratching post
+Luna,2,Black,0.01,Tunnel
+Max,3,Gray,4.01,Catnip mice
+Simba,5,White,1.32,Tunnel
+Whiskers,4,Black,4.12,Feather wand
+Fluffy,9,White,1.74,Catnip mice
+Lucy,4,Gray,2.22,Scratching post
+Oliver,5,White,4.63,Interactive laser pointer
+Lucy,7,Tabby,0.85,Catnip mice
+Shadow,1,Gray,0.16,String
+Tigger,0,White,4.51,Fishing rod toy
+Leo,6,Tabby,3.21,String
+Whiskers,8,Black,0.19,Feather wand
+Luna,0,Gray,1.79,Ball with bell
+Shadow,4,Black,1.69,Interactive laser pointer
+Mittens,8,Tan,4.75,Scratching post
+Simba,4,Black,1.33,Interactive laser pointer
+Smokey,3,Ginger,0.05,Catnip mice
+Shadow,10,Gray,0.05,Cat tree
+Mittens,2,Ginger,3.53,Catnip mice
+Leo,9,Tan,2.93,Catnip mice
+Leo,2,White,1.71,Catnip mice
+Lucy,10,Gray,0.97,String
+Shadow,6,White,2.66,Tunnel
+Tigger,6,Tabby,0.66,Tunnel
+Fluffy,2,White,2.47,Catnip mice
+Luna,5,White,4.56,Catnip mice
+Oliver,5,Black,3.89,Cat tree
+Oliver,9,Tabby,1.78,Scratching post
+Bella,0,Ginger,4.78,Tunnel
+Tigger,8,Brown,0.82,Feather wand
+Leo,7,Ginger,1.13,Tunnel
+Smokey,6,Brown,2.78,Scratching post
+Simba,0,Brown,3.72,Tunnel
+Whiskers,8,White,1.84,Cat tree
+Whiskers,7,Brown,1.02,Interactive laser pointer
+Whiskers,4,White,4.6,Interactive laser pointer
+Fluffy,0,White,1.44,Ball with bell
+Max,9,Black,4.83,Scratching post
+Tigger,4,Black,2.38,Catnip mice
+Max,1,Black,0.32,Ball with bell
+Leo,3,Gray,4.34,Fishing rod toy
+Ginger,1,White,4.19,String
+Tigger,8,Gray,0.63,Catnip mice
+Ginger,4,Ginger,3.49,Interactive laser pointer
+Max,7,Tabby,4.21,Interactive laser pointer
+Chloe,2,Tan,4.5,Tunnel
+Mittens,2,Black,2.52,Catnip mice
+Simba,8,White,3.1,Scratching post
+Luna,0,Gray,3.57,String
+Shadow,1,Black,0.79,Interactive laser pointer
+Bella,7,Black,1.81,Fishing rod toy
+Simba,3,Tan,1.51,Scratching post
+Mittens,7,Ginger,0.72,Ball with bell
+Tigger,3,Tan,3.0,Catnip mice
+Smokey,2,White,1.92,Catnip mice
+Mittens,4,Tan,0.75,Tunnel
+Ginger,3,Black,2.65,Interactive laser pointer
+Oliver,9,White,0.42,Cat tree
+Lucy,2,Tabby,0.72,Ball with bell
+Chloe,9,Gray,0.29,Sisal mouse
+Mittens,5,Black,2.59,Ball with bell
+Ginger,8,Gray,1.04,Ball with bell
+Tigger,0,White,2.55,String
+Whiskers,3,White,3.36,Catnip mice
+Smokey,1,Black,4.33,Interactive laser pointer
+Luna,8,White,3.91,Feather wand
+Bella,3,Black,3.6,String
+Leo,6,Tan,2.2,Interactive laser pointer
+Mittens,10,Black,0.79,Scratching post
+Simba,9,Black,3.23,Interactive laser pointer
+Fluffy,3,Black,2.93,Cat tree
+Max,3,White,0.99,Cat tree
+Simba,7,White,0.93,Scratching post
+Tigger,3,Gray,0.2,String
+Smokey,5,White,4.09,Tunnel
+Lucy,7,Ginger,4.16,Ball with bell
+Oliver,6,Black,0.92,Catnip mice
+Tigger,9,Gray,3.63,Catnip mice
+Mittens,5,Brown,4.5,Fishing rod toy
+Simba,2,Gray,0.34,Tunnel
+Whiskers,5,Black,4.41,Interactive laser pointer
+Shadow,4,Black,4.38,Fishing rod toy
+Tigger,2,White,2.93,Sisal mouse
+Oliver,0,Gray,1.15,Feather wand
+Whiskers,1,White,0.03,Interactive laser pointer
+Fluffy,0,Black,1.5,Tunnel
+Shadow,1,Brown,0.23,Sisal mouse
+Fluffy,7,Black,2.32,Feather wand
+Leo,6,Tabby,2.03,Fishing rod toy
+Chloe,0,White,2.25,Ball with bell
+Bella,6,White,3.88,Sisal mouse
+Fluffy,9,Tabby,0.52,Scratching post
+Ginger,2,White,0.86,Tunnel
+Mittens,6,Tan,1.94,Scratching post
+Max,4,Tan,0.54,Sisal mouse
+Whiskers,10,Black,3.04,Feather wand
+Mittens,6,Gray,3.07,Cat tree
+Fluffy,4,Gray,5.0,Fishing rod toy
+Fluffy,1,Gray,2.8,Tunnel
+Simba,0,Tabby,0.25,Cat tree
+Chloe,1,Gray,0.26,String
+Bella,6,Black,0.46,Interactive laser pointer
+Simba,8,Tan,2.47,Cat tree
+Lucy,6,Tabby,0.9,Ball with bell
+Chloe,4,White,1.97,Sisal mouse
+Fluffy,10,Brown,2.78,Tunnel
+Shadow,0,Black,4.33,Cat tree
+Whiskers,9,Gray,3.0,Ball with bell
+Bella,0,White,4.05,Feather wand
+Luna,7,Tan,2.44,Feather wand
+Tigger,2,White,2.5,Interactive laser pointer
+Lucy,5,Brown,3.28,Cat tree
+Leo,9,Ginger,1.37,String
+Chloe,1,White,2.96,Fishing rod toy
+Max,5,Tan,4.37,Catnip mice
+Luna,9,Ginger,4.94,Ball with bell
+Lucy,6,Black,4.47,Cat tree
+Whiskers,6,Ginger,0.26,Cat tree
+Smokey,10,Gray,4.94,Ball with bell
+Lucy,2,White,1.37,Sisal mouse
+Shadow,6,Tan,2.0,String
+Lucy,8,Ginger,3.27,Scratching post
+Whiskers,3,Ginger,2.78,Feather wand
+Ginger,3,White,4.2,Scratching post
+Lucy,3,Tabby,1.75,Ball with bell
+Chloe,0,Black,2.08,Interactive laser pointer
+Luna,10,Gray,1.88,Interactive laser pointer
+Mittens,6,Ginger,3.85,Catnip mice
+Chloe,8,Gray,0.46,Scratching post
+Chloe,1,Tan,0.19,Catnip mice
+Max,1,White,4.01,String
+Whiskers,6,Brown,0.32,Catnip mice
+Max,5,Black,3.36,Ball with bell
+Chloe,2,White,2.74,Catnip mice
+Max,5,Black,1.87,Feather wand
+Simba,10,Black,0.77,Tunnel
+Smokey,10,Brown,1.28,Interactive laser pointer
+Max,3,Tabby,0.97,Sisal mouse
+Simba,2,White,0.29,Sisal mouse
+Mittens,10,Tabby,4.79,Ball with bell
+Tigger,4,Gray,0.29,Fishing rod toy
+Max,1,Tabby,2.0,Catnip mice
+Luna,10,Tabby,3.11,Feather wand
+Mittens,0,Black,0.04,Interactive laser pointer
+Mittens,3,Black,1.0,Tunnel
+Max,2,Black,1.7,Cat tree
+Max,8,Black,0.9,Fishing rod toy
+Shadow,3,Tabby,1.66,Tunnel
+Simba,10,Black,2.93,Catnip mice
+Ginger,6,Tabby,1.19,Feather wand
+Max,7,Tan,0.26,Interactive laser pointer
+Chloe,3,Brown,0.55,Tunnel
+Luna,8,Tan,3.92,Feather wand
+Lucy,2,Black,2.34,Fishing rod toy
+Luna,3,Gray,1.89,Cat tree
+Leo,7,Tabby,4.37,Feather wand
+Tigger,1,White,0.36,Ball with bell
+Luna,7,Ginger,2.84,Fishing rod toy
+Tigger,4,Brown,2.99,Scratching post
+Whiskers,4,White,1.41,Cat tree
+Mittens,10,Gray,4.39,Fishing rod toy
+Mittens,1,White,2.16,Catnip mice
+Whiskers,7,Black,0.2,Catnip mice
+Max,6,Black,4.03,Interactive laser pointer
+Max,4,Gray,4.33,Scratching post
+Ginger,3,White,0.44,Fishing rod toy
+Fluffy,3,Gray,1.22,Cat tree
+Mittens,3,Gray,3.89,Scratching post
+Fluffy,6,Black,0.32,Interactive laser pointer
+Bella,3,Brown,3.48,Tunnel
+Oliver,7,White,1.85,Interactive laser pointer
+Max,1,Black,0.76,Catnip mice
+Tigger,10,Black,4.32,String
+Luna,10,Black,2.29,Ball with bell
+Smokey,2,Black,2.29,Cat tree
+Fluffy,6,Gray,0.51,Sisal mouse
+Simba,9,White,4.53,Sisal mouse
+Chloe,5,Ginger,0.49,Tunnel
+Ginger,3,Brown,3.99,Cat tree
+Shadow,4,Black,3.89,Ball with bell
+Ginger,5,White,1.71,Ball with bell
+Max,7,Tabby,3.49,Cat tree
+Max,0,Gray,0.59,Cat tree
+Shadow,10,Black,0.35,Interactive laser pointer
+Fluffy,2,Brown,3.81,Catnip mice
+Shadow,3,Ginger,1.0,Catnip mice
+Bella,5,Tan,0.23,Ball with bell
+Whiskers,4,Gray,4.06,Ball with bell
+Simba,8,Gray,2.79,Scratching post
+Shadow,4,Black,0.18,String
+Bella,9,Black,2.09,Cat tree
+Chloe,8,Black,2.36,Catnip mice
+Max,3,Ginger,1.63,String
+Oliver,4,Tan,0.23,Fishing rod toy
+Lucy,2,White,0.57,Sisal mouse
+Leo,5,Black,0.54,Catnip mice
+Bella,9,White,3.92,String
+Bella,10,Black,4.46,Tunnel
+Whiskers,4,Black,4.19,Fishing rod toy
+Chloe,9,Ginger,0.57,Sisal mouse
+Simba,3,Tabby,3.69,Catnip mice
+Mittens,6,Brown,4.48,Tunnel
+Luna,2,Gray,2.36,Sisal mouse
+Bella,10,Gray,4.58,Catnip mice
+Smokey,2,Gray,1.06,Ball with bell
+Mittens,0,Tabby,4.42,Scratching post
+Simba,3,Black,2.58,Tunnel
+Lucy,4,Brown,0.46,String
+Ginger,5,White,0.92,String
+Mittens,3,Gray,0.0,Catnip mice
+Tigger,7,Brown,1.14,Interactive laser pointer
+Chloe,3,White,3.13,Fishing rod toy
+Bella,4,Black,1.68,Scratching post
+Smokey,1,Black,3.44,Fishing rod toy
+Luna,9,Ginger,2.05,Catnip mice
+Mittens,7,Tabby,4.43,Cat tree
+Smokey,1,White,2.02,Cat tree
+Oliver,8,Black,0.24,Scratching post
+Tigger,8,Ginger,0.31,Fishing rod toy
+Fluffy,5,Black,0.14,Catnip mice
+Shadow,4,Black,3.14,Ball with bell
+Lucy,1,Gray,0.79,Catnip mice
+Chloe,5,Tabby,4.29,Cat tree
+Fluffy,1,White,1.77,Feather wand
+Tigger,2,Brown,0.53,Fishing rod toy
+Lucy,4,Tabby,3.36,Sisal mouse
+Tigger,8,Gray,0.35,Catnip mice
+Luna,1,Ginger,4.92,Scratching post
+Bella,9,Brown,2.55,Interactive laser pointer
+Lucy,6,Black,2.54,Sisal mouse
+Mittens,4,Brown,2.93,Interactive laser pointer
+Whiskers,3,Tan,2.03,Cat tree
+Lucy,4,Gray,4.06,Interactive laser pointer
+Mittens,10,Tabby,1.23,Interactive laser pointer
+Max,6,White,0.18,Catnip mice
+Leo,4,Black,2.77,Scratching post
+Leo,6,Gray,0.81,Tunnel
+Mittens,0,Gray,1.23,Fishing rod toy
+Chloe,9,Ginger,0.21,Tunnel
+Chloe,1,White,3.25,Feather wand
+Chloe,10,White,2.62,Sisal mouse
+Tigger,5,Tan,4.87,Tunnel
+Shadow,0,White,4.92,String
+Shadow,5,White,3.05,Cat tree
+Smokey,0,White,2.55,Ball with bell
+Simba,0,Tan,0.46,Scratching post
+Whiskers,3,Tabby,1.94,Ball with bell
+Whiskers,6,Ginger,1.84,Scratching post
+Max,7,Ginger,1.57,Feather wand
+Max,5,Gray,2.55,Interactive laser pointer
+Leo,6,Gray,4.48,Tunnel
+Max,0,White,0.69,Tunnel
+Smokey,1,Black,1.59,Ball with bell
+Simba,8,Brown,3.68,Sisal mouse
+Lucy,5,Black,1.37,Tunnel
+Lucy,10,Gray,4.9,Catnip mice
+Simba,7,Ginger,0.49,Catnip mice
+Oliver,10,Gray,2.37,Sisal mouse
+Smokey,4,Tabby,4.54,Sisal mouse
+Tigger,2,Ginger,0.02,Fishing rod toy
+Lucy,4,White,2.54,Feather wand
+Whiskers,8,Black,0.75,Tunnel
+Bella,6,Black,0.0,String
+Max,6,Gray,2.38,Sisal mouse
+Chloe,8,Black,3.41,Sisal mouse
+Oliver,10,Ginger,3.51,Ball with bell
+Chloe,9,Gray,1.66,Fishing rod toy
+Shadow,1,Tabby,2.15,Catnip mice
+Mittens,2,Gray,3.33,Cat tree
+Luna,7,Black,3.35,Catnip mice
+Fluffy,5,White,0.13,Feather wand
+Mittens,9,Tabby,3.78,Sisal mouse
+Luna,1,White,4.16,Interactive laser pointer
+Chloe,7,Tan,2.29,Fishing rod toy
+Max,4,Black,3.84,Tunnel
+Tigger,5,Ginger,1.19,Interactive laser pointer
+Shadow,4,White,0.58,Interactive laser pointer
+Ginger,1,Tan,3.15,Feather wand
+Oliver,8,Tabby,1.28,Catnip mice
+Max,10,Black,1.74,String
+Whiskers,0,Ginger,0.7,Tunnel
+Oliver,0,Ginger,1.24,Cat tree
+Lucy,0,Black,4.79,Cat tree
+Chloe,10,Ginger,2.46,Fishing rod toy
+Fluffy,10,Ginger,3.85,Interactive laser pointer
+Shadow,8,Tabby,0.3,Interactive laser pointer
+Mittens,2,Black,0.03,Fishing rod toy
+Chloe,8,Tabby,1.99,Fishing rod toy
+Max,4,Ginger,4.03,Sisal mouse
+Leo,7,Black,0.48,Catnip mice
+Luna,1,White,1.36,Tunnel
+Chloe,7,Gray,4.38,Tunnel
+Chloe,3,Gray,0.52,Ball with bell
+Leo,0,Tabby,3.9,Fishing rod toy
+Lucy,9,White,2.42,Catnip mice
+Tigger,1,Brown,3.69,Catnip mice
+Luna,4,Tan,4.17,Fishing rod toy
+Simba,0,Gray,3.95,Interactive laser pointer
+Max,0,Black,3.37,Interactive laser pointer
+Leo,2,White,3.63,Sisal mouse
+Luna,8,White,1.35,Tunnel
+Lucy,7,Ginger,3.42,String
+Ginger,0,Brown,3.62,Catnip mice
+Mittens,6,Black,3.09,Interactive laser pointer
+Lucy,0,White,3.93,Fishing rod toy
+Ginger,4,Tabby,3.96,Catnip mice
+Tigger,3,Tabby,0.83,Sisal mouse
+Shadow,6,White,3.19,Tunnel
+Whiskers,6,White,4.74,Scratching post
+Bella,6,Gray,0.2,Ball with bell
+Oliver,8,Tan,1.21,Ball with bell
+Oliver,10,Tabby,3.4,Scratching post
+Ginger,6,Gray,0.7,Ball with bell
+Oliver,8,Brown,1.0,Scratching post
+Bella,3,Brown,0.32,Catnip mice
+Whiskers,2,Gray,3.45,Fishing rod toy
+Fluffy,7,Tan,0.98,Tunnel
+Lucy,6,White,3.53,String
+Lucy,2,White,3.59,Cat tree
+Bella,4,Brown,1.33,Ball with bell
+Simba,5,Tabby,4.01,Interactive laser pointer
+Chloe,10,Black,3.21,Tunnel
+Ginger,0,White,4.62,Scratching post
+Whiskers,3,White,1.86,Interactive laser pointer
+Fluffy,5,Black,5.0,Ball with bell
+Ginger,8,Black,4.14,Catnip mice
+Simba,4,White,0.23,Cat tree
+Oliver,5,Black,3.98,Interactive laser pointer
+Lucy,9,Black,1.2,Sisal mouse
+Chloe,8,Gray,2.85,Tunnel
+Simba,5,White,2.75,Feather wand
+Lucy,10,Ginger,3.55,Catnip mice
+Bella,6,White,3.99,Interactive laser pointer
+Max,6,Gray,1.46,Sisal mouse
+Bella,9,White,1.71,Feather wand
+Mittens,3,Black,1.49,Cat tree
+Whiskers,8,Black,2.33,Interactive laser pointer
+Ginger,0,White,3.11,Scratching post
+Max,6,Gray,2.05,Sisal mouse
+Chloe,6,Ginger,4.15,Sisal mouse
+Shadow,2,Gray,2.31,Ball with bell
+Mittens,9,Tabby,2.18,Sisal mouse
+Ginger,3,Tabby,1.44,Tunnel
+Leo,10,Black,0.43,Scratching post
+Chloe,7,Ginger,0.24,Interactive laser pointer
+Mittens,2,Tan,3.15,Ball with bell
+Tigger,3,Tabby,0.73,Cat tree
+Shadow,2,Black,3.54,String
+Max,2,Ginger,1.13,Sisal mouse
+Max,8,Tan,3.34,Tunnel
+Max,9,Black,1.68,Feather wand
+Fluffy,9,Brown,0.19,Ball with bell
+Bella,5,Ginger,3.92,Catnip mice
+Whiskers,1,Gray,0.59,Cat tree
+Max,6,Black,0.03,String
+Simba,4,Gray,0.11,Feather wand
+Whiskers,8,White,2.8,Interactive laser pointer
+Tigger,6,Gray,1.41,Cat tree
+Luna,0,Brown,3.42,Feather wand
+Ginger,1,Gray,2.12,Sisal mouse
+Bella,7,Black,0.1,Sisal mouse
+Mittens,10,Tabby,3.26,Ball with bell
+Leo,10,Black,3.24,Cat tree
+Simba,10,Ginger,0.78,String
+Shadow,7,Brown,2.77,Tunnel
+Ginger,6,White,2.65,Scratching post
+Simba,7,Tan,2.58,String
+Lucy,7,Tan,0.09,Fishing rod toy
+Lucy,7,White,1.13,Scratching post
+Simba,10,White,0.08,Scratching post
+Ginger,10,Gray,1.99,Ball with bell
+Simba,4,Ginger,1.85,Sisal mouse
+Ginger,0,Brown,1.06,Ball with bell
+Whiskers,5,Brown,3.18,Ball with bell
+Oliver,5,Black,3.03,Ball with bell
+Ginger,3,Tabby,1.3,Ball with bell
+Luna,9,White,1.15,Interactive laser pointer
+Bella,7,Ginger,4.84,Feather wand
+Max,7,Gray,1.37,Cat tree
+Smokey,5,Tabby,0.89,Fishing rod toy
+Tigger,7,Gray,4.26,Catnip mice
+Smokey,3,Tabby,0.11,Interactive laser pointer
+Whiskers,3,Black,3.46,Ball with bell
+Oliver,9,Gray,0.05,Sisal mouse
+Luna,9,Black,4.73,Ball with bell
+Fluffy,7,White,0.1,String
+Simba,5,Brown,3.85,Ball with bell
+Mittens,2,White,1.74,Cat tree
+Ginger,8,White,2.52,Tunnel
+Chloe,5,White,0.87,Catnip mice
+Whiskers,5,Brown,3.23,Scratching post
+Luna,1,Black,4.54,String
+Fluffy,2,White,0.02,Fishing rod toy
+Smokey,5,Ginger,1.89,Sisal mouse
+Fluffy,7,Tabby,0.88,Feather wand
+Luna,9,Brown,3.23,Interactive laser pointer
+Lucy,10,Gray,4.18,Fishing rod toy
+Luna,5,Tan,3.85,Cat tree
+Max,6,Black,2.31,Catnip mice
+Tigger,6,Gray,2.07,Cat tree
+Bella,3,Black,4.49,Tunnel
+Tigger,9,Tan,3.02,Scratching post
+Lucy,5,Black,0.43,Interactive laser pointer
+Shadow,8,Black,4.12,Scratching post
+Smokey,2,White,0.67,String
+Chloe,10,Brown,2.92,Fishing rod toy
+Chloe,8,Tabby,2.96,Scratching post
+Smokey,9,Brown,1.41,Sisal mouse
+Whiskers,8,Tabby,2.46,Tunnel
+Whiskers,0,Black,0.37,String
+Luna,7,Brown,0.95,Ball with bell
+Simba,10,White,3.83,Cat tree
+Luna,8,Tan,4.99,Feather wand
+Shadow,9,Tabby,4.47,Feather wand
+Simba,8,Ginger,0.8,Ball with bell
+Tigger,9,Gray,2.84,Cat tree
+Bella,8,White,2.84,Fishing rod toy
+Shadow,2,Brown,0.15,Tunnel
+Ginger,7,Black,1.07,Interactive laser pointer
+Lucy,6,Gray,1.65,Interactive laser pointer
+Smokey,8,White,4.64,Catnip mice
+Lucy,8,Gray,4.32,Fishing rod toy
+Oliver,7,Gray,4.29,Fishing rod toy
+Lucy,7,Black,4.61,Sisal mouse
+Shadow,2,Gray,1.12,String
+Shadow,3,Gray,3.75,Scratching post
+Oliver,0,Tan,2.55,Fishing rod toy
+Whiskers,5,Gray,1.25,Catnip mice
+Ginger,4,Gray,4.23,Cat tree
+Shadow,6,Tan,3.27,Ball with bell
+Bella,6,Brown,0.5,Sisal mouse
+Fluffy,7,Gray,5.0,String
+Simba,5,Black,0.5,Sisal mouse
+Ginger,0,Tan,1.35,Ball with bell
+Mittens,3,Gray,0.36,Interactive laser pointer
+Lucy,10,Ginger,1.35,Interactive laser pointer
+Max,1,Ginger,4.14,Ball with bell
+Leo,3,Tabby,1.41,String
+Fluffy,10,Tabby,2.82,Sisal mouse
+Lucy,0,Brown,0.52,Sisal mouse
+Mittens,6,Black,0.17,Ball with bell
+Ginger,2,Tabby,4.5,Tunnel
+Luna,4,Tabby,0.04,Catnip mice
+Chloe,6,Black,0.46,Tunnel
+Chloe,5,Tan,0.26,Ball with bell
+Max,2,Ginger,2.52,Sisal mouse
+Lucy,6,Ginger,0.22,Catnip mice
+Whiskers,10,Tabby,4.17,Interactive laser pointer
+Leo,9,White,1.96,Interactive laser pointer
+Tigger,9,Tabby,0.86,Cat tree
+Lucy,8,Black,2.56,Tunnel
+Chloe,7,Ginger,1.45,Interactive laser pointer
+Fluffy,8,Ginger,2.56,String
+Whiskers,1,Tan,2.03,Ball with bell
+Fluffy,3,Gray,1.94,Feather wand
+Lucy,0,White,2.84,Cat tree
+Whiskers,8,Tabby,4.47,Cat tree
+Smokey,9,Black,2.02,Tunnel
+Tigger,1,Brown,3.76,Cat tree
+Simba,0,White,4.03,Interactive laser pointer
+Oliver,7,White,0.0,Sisal mouse
+Ginger,10,Tan,2.59,Feather wand
+Luna,2,Tan,2.56,Cat tree
+Max,10,Tan,3.79,Feather wand
+Simba,1,Black,4.7,Feather wand
+Luna,5,Tabby,2.83,Cat tree
+Simba,4,Tan,3.77,Sisal mouse
+Tigger,1,Gray,2.37,Scratching post
+Leo,4,Black,2.22,Interactive laser pointer
+Shadow,5,Black,4.09,Ball with bell
+Chloe,3,Tabby,2.14,String
+Max,10,White,0.05,Cat tree
+Ginger,6,Gray,1.83,String
+Simba,4,Brown,4.35,Catnip mice
+Ginger,10,Brown,0.67,String
+Smokey,4,Ginger,2.78,Catnip mice
+Max,5,Ginger,0.07,Interactive laser pointer
+Tigger,0,Brown,2.98,String
+Simba,3,Brown,3.77,String
+Leo,5,Tabby,2.29,Cat tree
+Oliver,8,Gray,2.89,String
+Oliver,4,Brown,4.2,Tunnel
+Bella,5,Ginger,4.55,Cat tree
+Tigger,10,Gray,0.11,Sisal mouse
+Bella,8,Gray,4.04,Scratching post
+Lucy,2,Tan,1.51,Catnip mice
+Luna,4,Tan,3.61,String
+Chloe,4,Gray,4.59,Feather wand
+Fluffy,2,Tabby,1.53,Feather wand
+Bella,9,Ginger,1.62,Interactive laser pointer
+Shadow,8,Gray,0.84,Feather wand
+Luna,10,Tan,0.29,Sisal mouse
+Tigger,9,Black,0.24,Sisal mouse
+Smokey,2,Brown,2.73,Sisal mouse
+Luna,5,Tabby,2.66,Catnip mice
+Oliver,2,Tabby,3.49,Interactive laser pointer
+Oliver,1,Gray,2.04,Scratching post
