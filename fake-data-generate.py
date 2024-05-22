@@ -56,13 +56,13 @@ city="Los Angeles"
 state="California"
 
 for city in us_city_short_codes:
-    if not os.path.exists(f'data\\{city}'):
-        os.makedirs(f'data\\{city}')
+    if not os.path.exists(os.path.join('data', city)):
+        os.makedirs(os.path.join('data', city))
     for i in range(random.randrange(1, len(breeds))):
         # print(i)
         breed = random.choice(breeds)
         # print(breed)
-        path = f'data\\{city}\\{breed}.csv'
+        path = os.path.join('data', city, breed + ".csv")
         print(path)
         f = open(path, 'w')
         if breed.startswith('cat'):
