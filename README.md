@@ -22,3 +22,39 @@ Open http://localhost:8000/docs to generate and view OpenAPI spec
 ### Generate fake data
 
 Run `py fake-data-generate.py` to generate fakedata in data directory
+
+### Example Curl
+
+```bash
+curl -X 'POST' \
+  'http://127.0.0.1:8000/search' \
+  -H 'accept: application/json' \
+  -H 'location: NYC' \
+  -H 'Content-Type: application/json' \
+  -d '{
+  "breed": "cat_siamese",
+  "query": "@ALL",
+  "returnedFields": [
+    "name", "age", "color", "weight", "favorite_toy"
+  ],
+  "limit": 3,
+  "offset": 0
+}'
+```
+
+```bash
+curl -X 'POST' \
+  'http://127.0.0.1:8000/search_with_cursor' \
+  -H 'accept: application/json' \
+  -H 'location: NYC' \
+  -H 'Content-Type: application/json' \
+  -d '{
+  "breed": "cat_siamese",
+  "query": "@ALL",
+  "returnedFields": [
+    "name", "age", "color", "weight", "favorite_toy"
+  ],
+  "cursor": "",
+  "limit": 1
+}'
+```
