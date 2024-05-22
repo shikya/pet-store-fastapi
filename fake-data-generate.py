@@ -69,7 +69,7 @@ for city in us_city_short_codes:
             f.write(cat_header + '\n')
         else:
             f.write(dog_header + '\n')
-        for _ in range(5):
+        for _ in range(500):
             if breed.startswith('cat'):
                 name = random.choice(cat_names)
                 age = random.randint(0, 10)
